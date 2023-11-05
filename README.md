@@ -1,1 +1,2 @@
 # odin-recipes
+Odin Recipes is a project where I can post 3-5 easy recipes monthly on the web. My goal is to practice new concepts I've learned in making a webpage with HTML using this website. By the end of the project, I hope to be comfortable with creating and updating repositories in Git Hub using the CLI. I also hope to be comfortable with making the basic structure of an HTML document and functions such as adding images and links.
