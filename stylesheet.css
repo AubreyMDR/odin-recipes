@@ -1,0 +1,29 @@
+/* stylesheet */
+body {
+    font-family: Helvetica, Calibri, Verdana, Geneva, Tahoma, sans-serif;
+background-color: rgb(230, 219, 199);
+color: rgba(82, 63, 10, 0.594);
+}
+#intro {
+    text-align: justify;
+}
+* {
+    margin-right: 5%;
+    margin-left: 5%;
+    margin-top: 2%;
+}
+.recipepic {
+    width: 600px;
+    height: auto;
+
+}
+#page-title {
+    color: rgb(133, 82, 32);
+}
+.subtitle {
+    color: rgb(147, 107, 67);  
+}
+.recipe {
+    text-align:start;
+    
+}
